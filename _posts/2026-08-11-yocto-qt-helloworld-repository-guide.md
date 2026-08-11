@@ -113,8 +113,7 @@ That last one is the difference between a 20-minute rebuild and a multi-hour one
 ## See it in action
 
 <video controls width="100%" style="max-width:720px">
-  <source src="/assets/images/yocto-qt-helloworld/demo.MOV" type="video/quicktime">
-  <source src="/assets/images/yocto-qt-helloworld/demo.MOV" type="video/mp4">
+  <source src="/assets/images/yocto-qt-helloworld/demo.mp4" type="video/mp4">
 </video>
 
 ## Building it
