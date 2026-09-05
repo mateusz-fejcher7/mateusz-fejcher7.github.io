@@ -1,5 +1,5 @@
 ---
-title: "Yocto + Qt6 on Raspberry Pi 4B: Repository Walkthrough (Part 1)"
+title: "Yocto + Qt6 on Raspberry Pi 4B: Repository Walkthrough"
 date: 2026-08-11 20:02:00 +0200
 categories: [Yocto, Qt]
 tags: [yocto, qt6, qml, raspberry-pi, scarthgap, bitbake, eglfs, embedded-linux]
@@ -9,7 +9,7 @@ tags: [yocto, qt6, qml, raspberry-pi, scarthgap, bitbake, eglfs, embedded-linux]
 
 This post is a guided tour of [yocto-qthelloworld-project](https://github.com/mateusz-fejcher7/yocto-qthelloworld-project) - a complete, reproducible Yocto setup that builds a minimal Linux image for the Raspberry Pi 4B and launches a fullscreen Qt6/QML application automatically on boot.
 
-Part 2 - the full journey with every decision, dead end, and hard-won fix - is on the way. Stay tuned.
+Part 2 - the full journey with every decision, dead end, and hard-won fix - is up: [Yocto + Qt6 on Raspberry Pi 4B: Full journey](/posts/yocto-qt-helloworld-journey/).
 
 ## What you get at the end
 
