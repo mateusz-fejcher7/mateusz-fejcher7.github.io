@@ -406,7 +406,7 @@ LAYERDEPENDS_qt6-layer = "core openembedded-layer meta-python"
 
 ### Folder names and layer names are not the same thing
 
-In Yocto, each layer declares its own name inside `conf/layer.conf`. That name does not have to match the folder it lives in — and often does not.
+In Yocto, each layer declares its own name inside `conf/layer.conf`. That name does not have to match the folder it lives in - and often does not.
 
 `meta-oe` calls itself `openembedded-layer`. `meta-qt6` calls itself `qt6-layer`. When in doubt, the real name is always in `conf/layer.conf`, under `BBFILE_COLLECTIONS`.
 
